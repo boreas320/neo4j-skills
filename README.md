@@ -55,7 +55,7 @@ Add to `~/.agents/plugins/marketplace.json`:
   "plugins": [
     {
       "name": "neo4j-skills",
-      "source": { "source": "local", "path": "./plugins/neo4j-skills" },
+      "source": { "source": "local", "path": "./.codex/plugins/neo4j-skills" },
       "policy": { "installation": "AVAILABLE" },
       "category": "Database"
     }
